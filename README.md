@@ -37,7 +37,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Open the repo and you'll find a complete Vite application (77 files). Top-level layout: `kanban-board/`, `src/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
+Open the repo and you'll find a complete Vite application (66 files). Top-level layout: `kanban-board/`, `src/`. See [`INSTALL.md`](INSTALL.md) for complete setup instructions.
 
 ## Usage guide
 
